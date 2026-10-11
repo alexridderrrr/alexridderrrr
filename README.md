@@ -9,7 +9,8 @@
 ## About Me
 
 🎮 Love programming **Minecraft plugins**  
-🌐 Making **websites** for friends and i
+🌐 Making **websites** for friends and I
+
 📸 Also working as a **model** on the side  
 📫 Reach me at [alexridder.be](https://alexridder.be)  
 💬 You can also reach me on Discord: **alexridder**
