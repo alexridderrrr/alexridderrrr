@@ -9,7 +9,7 @@
 ## About Me
 
 🎮 Love programming **Minecraft plugins**  
-🌐 Making **websites** for clients and side projects  
+🌐 Making **websites** for friends and i
 🐍 Always experimenting with **Python**  
 🚀 Freelance web developer, shipping something new every day  
 📸 Also working as a **model** on the side  
